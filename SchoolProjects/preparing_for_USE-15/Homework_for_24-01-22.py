@@ -8,3 +8,5 @@ while num != 0:
     num = int(input())
 middNum = sum / quan
 print(middNum)
+
+
